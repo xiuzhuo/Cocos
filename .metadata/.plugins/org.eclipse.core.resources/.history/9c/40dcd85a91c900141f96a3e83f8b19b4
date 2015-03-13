@@ -1,0 +1,39 @@
+
+var PIECES={
+	PawnWhite0:{
+		texture:res_piece.PawnWhite,
+		sprite:null,
+	},
+	PawnWhite1:{
+		texture:res_piece.PawnWhite
+	},
+	PawnWhite2:{
+		texture:res_piece.PawnWhite
+	},
+	PawnWhite3:{
+		texture:res_piece.PawnWhite
+	},
+	PawnWhite4:{
+		texture:res_piece.PawnWhite
+	},
+	PawnWhite5:{
+		texture:res_piece.PawnWhite
+	},
+	PawnWhite6:{
+		texture:res_piece.PawnWhite
+	},
+	PawnWhite7:{
+		texture:res_piece.PawnWhite
+	},
+	PawnBlack0:{
+		texture:res_piece.PawnBlack
+	}
+}
+
+
+var Peice=cc.Sprite.extend(	
+{
+	ctor:function(type){
+		this._super(type.texture);
+	}
+});

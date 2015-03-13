@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="ASCII"?>
+<cache:CacheIndex xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:cache="http://eclipse.org/dltk/cache_model" lastIndex="26" environment="org.eclipse.dltk.core.environment.localEnvironment">
+  <entries path="/Users/zxui/Cocos/HelloWorld/frameworks/cocos2d-x/cocos/scripting/lua-bindings/script/CCBReaderLoad.lua" timestamp="1403149192000" lastAccessTime="1407935142759"/>
+  <entries path="/Users/zxui/Cocos/HelloWorld/frameworks/cocos2d-x/cocos/scripting/lua-bindings/script" timestamp="1407935135000" lastAccessTime="1407935167213">
+    <attributes name=".dltk.core.archive.cache.lastaccess" location="2838196607/3779464567/1.idx"/>
+  </entries>
+  <entries path="/Users/zxui/Cocos/HelloWorld/runtime/mac/PrebuiltRuntimeLua.app/Contents/Resources/OpenglConstants.lua" timestamp="1407935122000" lastAccessTime="1407935146104"/>
+  <entries path="/Users/zxui/Cocos/HelloWorld/runtime/mac/PrebuiltRuntimeLua.app/Contents/Resources" timestamp="1407935122000" lastAccessTime="1407935167021">
+    <attributes name=".dltk.core.archive.cache.lastaccess" location="2838196607/3954261310/3.idx"/>
+  </entries>
+  <entries path="/Users/zxui/Cocos/HelloWorld/runtime/win32/Cocos2d.lua" timestamp="1407935122000" lastAccessTime="1407935146518"/>
+  <entries path="/Users/zxui/Cocos/HelloWorld/runtime/win32" timestamp="1407935122000" lastAccessTime="1407935165630">
+    <attributes name=".dltk.core.archive.cache.lastaccess" location="2838196607/2074303592/5.idx"/>
+  </entries>
+  <entries path="/Users/zxui/Cocos/HelloWorld/runtime/ios/PrebuiltRuntimeLua.app/ftp.lua" timestamp="1407935122000" lastAccessTime="1407935146758"/>
+  <entries path="/Users/zxui/Cocos/HelloWorld/runtime/ios/PrebuiltRuntimeLua.app" timestamp="1407935141000" lastAccessTime="1407935166199">
+    <attributes name=".dltk.core.archive.cache.lastaccess" location="2838196607/1823705235/7.idx"/>
+  </entries>
+  <entries path="/Users/zxui/Cocos/HelloWorld/runtime/ios/PrebuiltRuntimeLua.app/DrawPrimitives.lua" timestamp="1407935122000" lastAccessTime="1407935146974"/>
+  <entries path="/Users/zxui/Cocos/HelloWorld/frameworks/cocos2d-x/external/lua/luasocket/mbox.lua" timestamp="1404730112000" lastAccessTime="1407935147356"/>
+  <entries path="/Users/zxui/Cocos/HelloWorld/frameworks/cocos2d-x/external/lua/luasocket" timestamp="1407935136000" lastAccessTime="1407935167483">
+    <attributes name=".dltk.core.archive.cache.lastaccess" location="2838196607/2436033173/9.idx"/>
+  </entries>
+  <entries path="/Users/zxui/Cocos/HelloWorld/runtime/ios/PrebuiltRuntimeLua.app/mbox.lua" timestamp="1407935122000" lastAccessTime="1407935147452"/>
+  <entries path="/Users/zxui/Cocos/HelloWorld/frameworks/cocos2d-x/cocos/scripting/lua-bindings/script/json.lua" timestamp="1403149192000" lastAccessTime="1407935147555"/>
+  <entries path="/Users/zxui/Cocos/HelloWorld/runtime/ios/PrebuiltRuntimeLua.app/luaj.lua" timestamp="1407935122000" lastAccessTime="1407935147785"/>
+  <entries path="/Users/zxui/Cocos/HelloWorld/runtime/ios/PrebuiltRuntimeLua.app/DeprecatedOpenglEnum.lua" timestamp="1407935122000" lastAccessTime="1407935147860"/>
+  <entries path="/Users/zxui/Cocos/HelloWorld/frameworks/cocos2d-x/external/lua/luasocket/tp.lua" timestamp="1404730112000" lastAccessTime="1407935148115"/>
+  <entries path="/Users/zxui/Cocos/HelloWorld/runtime/ios/PrebuiltRuntimeLua.app/StudioConstants.lua" timestamp="1407935122000" lastAccessTime="1407935148196"/>
+  <entries path="/Users/zxui/Cocos/HelloWorld/frameworks/cocos2d-x/cocos/scripting/lua-bindings/script/Opengl.lua" timestamp="1403149192000" lastAccessTime="1407935148226"/>
+  <entries path="/Users/zxui/Cocos/HelloWorld/frameworks/cocos2d-x/cocos/scripting/lua-bindings/script/AudioEngine.lua" timestamp="1403149192000" lastAccessTime="1407935148378"/>
+  <entries path="/Users/zxui/Cocos/HelloWorld/runtime/ios/PrebuiltRuntimeLua.app/Opengl.lua" timestamp="1407935122000" lastAccessTime="1407935148435"/>
+  <entries path="/Users/zxui/Cocos/HelloWorld/runtime/ios/PrebuiltRuntimeLua.app/json.lua" timestamp="1407935122000" lastAccessTime="1407935148601"/>
+  <entries path="/Users/zxui/Cocos/HelloWorld/runtime/win32/OpenglConstants.lua" timestamp="1407935122000" lastAccessTime="1407935148815"/>
+  <entries path="/Users/zxui/Cocos/HelloWorld/runtime/win32/url.lua" timestamp="1407935122000" lastAccessTime="1407935149294"/>
+  <entries path="/Users/zxui/Cocos/HelloWorld/runtime/mac/PrebuiltRuntimeLua.app/Contents/Resources/DrawPrimitives.lua" timestamp="1407935122000" lastAccessTime="1407935149526"/>
+  <entries path="/Users/zxui/Cocos/HelloWorld/runtime/mac/PrebuiltRuntimeLua.app/Contents/Resources/AudioEngine.lua" timestamp="1407935122000" lastAccessTime="1407935149936"/>
+  <entries path="/Users/zxui/Cocos/HelloWorld/runtime/ios/PrebuiltRuntimeLua.app/luaoc.lua" timestamp="1407935122000" lastAccessTime="1407935150017"/>
+  <entries path="/Users/zxui/Cocos/HelloWorld/frameworks/cocos2d-x/cocos/scripting/lua-bindings/script/DeprecatedEnum.lua" timestamp="1403841844000" lastAccessTime="1407935150065"/>
+  <entries path="/Users/zxui/Cocos/HelloWorld/runtime/ios/PrebuiltRuntimeLua.app/url.lua" timestamp="1407935122000" lastAccessTime="1407935150420"/>
+  <entries path="/Users/zxui/Cocos/HelloWorld/runtime/win32/mbox.lua" timestamp="1407935122000" lastAccessTime="1407935150574"/>
+  <entries path="/Users/zxui/Cocos/HelloWorld/runtime/mac/PrebuiltRuntimeLua.app/Contents/Resources/tp.lua" timestamp="1407935122000" lastAccessTime="1407935150637"/>
+  <entries path="/Users/zxui/Cocos/HelloWorld/runtime/mac/PrebuiltRuntimeLua.app/Contents/Resources/DeprecatedClass.lua" timestamp="1407935122000" lastAccessTime="1407935150705"/>
+  <entries path="/Users/zxui/Cocos/HelloWorld/runtime/mac/PrebuiltRuntimeLua.app/Contents/Resources/luaj.lua" timestamp="1407935122000" lastAccessTime="1407935151362"/>
+  <entries path="/Users/zxui/Cocos/HelloWorld/runtime/win32/luaoc.lua" timestamp="1407935122000" lastAccessTime="1407935151453"/>
+  <entries path="/Users/zxui/Cocos/HelloWorld/runtime/ios/PrebuiltRuntimeLua.app/ltn12.lua" timestamp="1407935122000" lastAccessTime="1407935151473"/>
+  <entries path="/Users/zxui/Cocos/HelloWorld/runtime/mac/PrebuiltRuntimeLua.app/Contents/Resources/mbox.lua" timestamp="1407935122000" lastAccessTime="1407935151567"/>
+  <entries path="/Users/zxui/Cocos/HelloWorld/src" timestamp="1404730183000" lastAccessTime="1409292494610">
+    <attributes name=".dltk.core.archive.cache.lastaccess" location="2838196607/1083599228/11.idx"/>
+  </entries>
+  <entries path="/Users/zxui/Cocos/HelloWorld/runtime/win32/ftp.lua" timestamp="1407935122000" lastAccessTime="1407935151825"/>
+  <entries path="/Users/zxui/Cocos/HelloWorld/runtime/win32/GuiConstants.lua" timestamp="1407935122000" lastAccessTime="1407935152227"/>
+  <entries path="/Users/zxui/Cocos/HelloWorld/runtime/win32/headers.lua" timestamp="1407935122000" lastAccessTime="1407935153543"/>
+  <entries path="/Users/zxui/Cocos/HelloWorld/runtime/win32/Deprecated.lua" timestamp="1407935122000" lastAccessTime="1407935153620"/>
+  <entries path="/Users/zxui/Cocos/HelloWorld/runtime/ios/PrebuiltRuntimeLua.app/smtp.lua" timestamp="1407935122000" lastAccessTime="1407935154261"/>
+  <entries path="/Users/zxui/Cocos/HelloWorld/runtime/mac/PrebuiltRuntimeLua.app/Contents/Resources/CCBReaderLoad.lua" timestamp="1407935122000" lastAccessTime="1407935154372"/>
+  <entries path="/Users/zxui/Cocos/HelloWorld/runtime/mac/PrebuiltRuntimeLua.app/Contents/Resources/http.lua" timestamp="1407935122000" lastAccessTime="1407935154454"/>
+  <entries path="/Users/zxui/Cocos/HelloWorld/runtime/win32/DeprecatedEnum.lua" timestamp="1407935122000" lastAccessTime="1407935154664"/>
+  <entries path="/Users/zxui/Cocos/HelloWorld/runtime/ios/PrebuiltRuntimeLua.app/http.lua" timestamp="1407935122000" lastAccessTime="1407935154931"/>
+  <entries path="/Users/zxui/Cocos/HelloWorld/runtime/mac/PrebuiltRuntimeLua.app/Contents/Resources/DeprecatedOpenglEnum.lua" timestamp="1407935122000" lastAccessTime="1407935155115"/>
+  <entries path="/Users/zxui/Cocos/HelloWorld/runtime/ios/PrebuiltRuntimeLua.app/mime.lua" timestamp="1407935122000" lastAccessTime="1407935155307"/>
+  <entries path="/Users/zxui/Cocos/HelloWorld/runtime/mac/PrebuiltRuntimeLua.app/Contents/Resources/luaoc.lua" timestamp="1407935122000" lastAccessTime="1407935155383"/>
+  <entries path="/Users/zxui/Cocos/HelloWorld/runtime/win32/extern.lua" timestamp="1407935122000" lastAccessTime="1407935155396"/>
+  <entries path="/Users/zxui/Cocos/HelloWorld/runtime/ios/PrebuiltRuntimeLua.app/socket.lua" timestamp="1407935122000" lastAccessTime="1407935155425"/>
+  <entries path="/Users/zxui/Cocos/HelloWorld/runtime/mac/PrebuiltRuntimeLua.app/Contents/Resources/StudioConstants.lua" timestamp="1407935122000" lastAccessTime="1407935155472"/>
+  <entries path="/Users/zxui/Cocos/HelloWorld/runtime/ios/PrebuiltRuntimeLua.app/CocoStudio.lua" timestamp="1407935122000" lastAccessTime="1407935155493"/>
+  <entries path="/Users/zxui/Cocos/HelloWorld/runtime/ios/PrebuiltRuntimeLua.app/GuiConstants.lua" timestamp="1407935122000" lastAccessTime="1407935155706"/>
+  <entries path="/Users/zxui/Cocos/HelloWorld/runtime/ios/PrebuiltRuntimeLua.app/DeprecatedEnum.lua" timestamp="1407935122000" lastAccessTime="1407935155735"/>
+  <entries path="/Users/zxui/Cocos/HelloWorld/runtime/mac/PrebuiltRuntimeLua.app/Contents/Resources/ftp.lua" timestamp="1407935122000" lastAccessTime="1407935156044"/>
+  <entries path="/Users/zxui/Cocos/HelloWorld/runtime/mac/PrebuiltRuntimeLua.app/Contents/Resources/socket.lua" timestamp="1407935122000" lastAccessTime="1407935156205"/>
+  <entries path="/Users/zxui/Cocos/HelloWorld/runtime/mac/PrebuiltRuntimeLua.app/Contents/Resources/Cocos2dConstants.lua" timestamp="1407935122000" lastAccessTime="1407935156293"/>
+  <entries path="/Users/zxui/Cocos/HelloWorld/frameworks/cocos2d-x/cocos/scripting/lua-bindings/script/OpenglConstants.lua" timestamp="1403149192000" lastAccessTime="1407935156485"/>
+  <entries path="/Users/zxui/Cocos/HelloWorld/runtime/win32/luaj.lua" timestamp="1407935122000" lastAccessTime="1407935156820"/>
+  <entries path="/Users/zxui/Cocos/HelloWorld/runtime/win32/ltn12.lua" timestamp="1407935122000" lastAccessTime="1407935156855"/>
+  <entries path="/Users/zxui/Cocos/HelloWorld/frameworks/cocos2d-x/external/lua/luasocket/ftp.lua" timestamp="1404730112000" lastAccessTime="1407935157053"/>
+  <entries path="/Users/zxui/Cocos/HelloWorld/runtime/win32/Cocos2dConstants.lua" timestamp="1407935122000" lastAccessTime="1407935157224"/>
+  <entries path="/Users/zxui/Cocos/HelloWorld/runtime/mac/PrebuiltRuntimeLua.app/Contents/Resources/smtp.lua" timestamp="1407935122000" lastAccessTime="1407935157432"/>
+  <entries path="/Users/zxui/Cocos/HelloWorld/runtime/win32/DeprecatedOpenglEnum.lua" timestamp="1407935122000" lastAccessTime="1407935157589"/>
+  <entries path="/Users/zxui/Cocos/HelloWorld/runtime/win32/mime.lua" timestamp="1407935122000" lastAccessTime="1407935157783"/>
+  <entries path="/Users/zxui/Cocos/HelloWorld/runtime/mac/PrebuiltRuntimeLua.app/Contents/Resources/headers.lua" timestamp="1407935122000" lastAccessTime="1407935157817"/>
+  <entries path="/Users/zxui/Cocos/HelloWorld/frameworks/cocos2d-x/cocos/scripting/lua-bindings/script/GuiConstants.lua" timestamp="1403841844000" lastAccessTime="1407935157842"/>
+  <entries path="/Users/zxui/Cocos/HelloWorld/runtime/mac/PrebuiltRuntimeLua.app/Contents/Resources/json.lua" timestamp="1407935122000" lastAccessTime="1407935157893"/>
+  <entries path="/Users/zxui/Cocos/HelloWorld/frameworks/cocos2d-x/external/lua/luasocket/url.lua" timestamp="1404730112000" lastAccessTime="1407935158084"/>
+  <entries path="/Users/zxui/Cocos/HelloWorld/runtime/mac/PrebuiltRuntimeLua.app/Contents/Resources/GuiConstants.lua" timestamp="1407935122000" lastAccessTime="1407935158232"/>
+  <entries path="/Users/zxui/Cocos/HelloWorld/runtime/ios/PrebuiltRuntimeLua.app/Deprecated.lua" timestamp="1407935122000" lastAccessTime="1407935158271"/>
+  <entries path="/Users/zxui/Cocos/HelloWorld/runtime/mac/PrebuiltRuntimeLua.app/Contents/Resources/extern.lua" timestamp="1407935122000" lastAccessTime="1407935158809"/>
+  <entries path="/Users/zxui/Cocos/HelloWorld/frameworks/cocos2d-x/external/lua/luasocket/ltn12.lua" timestamp="1404730112000" lastAccessTime="1407935158852"/>
+  <entries path="/Users/zxui/Cocos/HelloWorld/runtime/ios/PrebuiltRuntimeLua.app/extern.lua" timestamp="1407935122000" lastAccessTime="1407935159023"/>
+  <entries path="/Users/zxui/Cocos/HelloWorld/frameworks/cocos2d-x/cocos/scripting/lua-bindings/script/Deprecated.lua" timestamp="1403841844000" lastAccessTime="1407935159088"/>
+  <entries path="/Users/zxui/Cocos/HelloWorld/runtime/mac/PrebuiltRuntimeLua.app/Contents/Resources/Opengl.lua" timestamp="1407935122000" lastAccessTime="1407935159642"/>
+  <entries path="/Users/zxui/Cocos/HelloWorld/runtime/mac/PrebuiltRuntimeLua.app/Contents/Resources/Cocos2d.lua" timestamp="1407935122000" lastAccessTime="1407935159731"/>
+  <entries path="/Users/zxui/Cocos/HelloWorld/runtime/win32/smtp.lua" timestamp="1407935122000" lastAccessTime="1407935159961"/>
+  <entries path="/Users/zxui/Cocos/HelloWorld/runtime/mac/PrebuiltRuntimeLua.app/Contents/Resources/url.lua" timestamp="1407935122000" lastAccessTime="1407935160075"/>
+  <entries path="/Users/zxui/Cocos/HelloWorld/runtime/mac/PrebuiltRuntimeLua.app/Contents/Resources/Deprecated.lua" timestamp="1407935122000" lastAccessTime="1407935160174"/>
+  <entries path="/Users/zxui/Cocos/HelloWorld/runtime/win32/CocoStudio.lua" timestamp="1407935122000" lastAccessTime="1407935160689"/>
+  <entries path="/Users/zxui/Cocos/HelloWorld/frameworks/cocos2d-x/external/lua/luasocket/socket.lua" timestamp="1404730112000" lastAccessTime="1407935160845"/>
+  <entries path="/Users/zxui/Cocos/HelloWorld/frameworks/cocos2d-x/cocos/scripting/lua-bindings/script/luaj.lua" timestamp="1403149192000" lastAccessTime="1407935160920"/>
+  <entries path="/Users/zxui/Cocos/HelloWorld/runtime/ios/PrebuiltRuntimeLua.app/headers.lua" timestamp="1407935122000" lastAccessTime="1407935160951"/>
+  <entries path="/Users/zxui/Cocos/HelloWorld/runtime/ios/PrebuiltRuntimeLua.app/OpenglConstants.lua" timestamp="1407935122000" lastAccessTime="1407935160991"/>
+  <entries path="/Users/zxui/Cocos/HelloWorld/runtime/ios/PrebuiltRuntimeLua.app/tp.lua" timestamp="1407935122000" lastAccessTime="1407935161427"/>
+  <entries path="/Users/zxui/Cocos/HelloWorld/frameworks/cocos2d-x/cocos/scripting/lua-bindings/script/extern.lua" timestamp="1403149192000" lastAccessTime="1407935161489"/>
+  <entries path="/Users/zxui/Cocos/HelloWorld/runtime/win32/StudioConstants.lua" timestamp="1407935122000" lastAccessTime="1407935161533"/>
+  <entries path="/Users/zxui/Cocos/HelloWorld/frameworks/cocos2d-x/external/lua/luasocket/headers.lua" timestamp="1404730112000" lastAccessTime="1407935161552"/>
+  <entries path="/Users/zxui/Cocos/HelloWorld/runtime/ios/PrebuiltRuntimeLua.app/Cocos2d.lua" timestamp="1407935122000" lastAccessTime="1407935161587"/>
+  <entries path="/Users/zxui/Cocos/HelloWorld/runtime/mac/PrebuiltRuntimeLua.app/Contents/Resources/CocoStudio.lua" timestamp="1407935122000" lastAccessTime="1407935161795"/>
+  <entries path="/Users/zxui/Cocos/HelloWorld/frameworks/cocos2d-x/cocos/scripting/lua-bindings/script/Cocos2dConstants.lua" timestamp="1403841844000" lastAccessTime="1407935161958"/>
+  <entries path="/Users/zxui/Cocos/HelloWorld/runtime/win32/DeprecatedClass.lua" timestamp="1407935122000" lastAccessTime="1407935162110"/>
+  <entries path="/Users/zxui/Cocos/HelloWorld/runtime/win32/AudioEngine.lua" timestamp="1407935122000" lastAccessTime="1407935162637"/>
+  <entries path="/Users/zxui/Cocos/HelloWorld/runtime/win32/DrawPrimitives.lua" timestamp="1407935122000" lastAccessTime="1407935162681"/>
+  <entries path="/Users/zxui/Cocos/HelloWorld/frameworks/cocos2d-x/cocos/scripting/lua-bindings/script/DrawPrimitives.lua" timestamp="1403149192000" lastAccessTime="1407935162919"/>
+  <entries path="/Users/zxui/Cocos/HelloWorld/runtime/win32/http.lua" timestamp="1407935122000" lastAccessTime="1407935163149"/>
+  <entries path="/Users/zxui/Cocos/HelloWorld/runtime/win32/tp.lua" timestamp="1407935122000" lastAccessTime="1407935163316"/>
+  <entries path="/Users/zxui/Cocos/HelloWorld/frameworks/cocos2d-x/cocos/scripting/lua-bindings/script/CocoStudio.lua" timestamp="1403149192000" lastAccessTime="1407935163406"/>
+  <entries path="/Users/zxui/Cocos/HelloWorld/runtime/win32/CCBReaderLoad.lua" timestamp="1407935122000" lastAccessTime="1407935163526"/>
+  <entries path="/Users/zxui/Cocos/HelloWorld/runtime/ios/PrebuiltRuntimeLua.app/AudioEngine.lua" timestamp="1407935122000" lastAccessTime="1407935163644"/>
+  <entries path="/Users/zxui/Cocos/HelloWorld/frameworks/cocos2d-x/cocos/scripting/lua-bindings/script/Cocos2d.lua" timestamp="1403841844000" lastAccessTime="1407935163678"/>
+  <entries path="/Users/zxui/Cocos/HelloWorld/runtime/ios/PrebuiltRuntimeLua.app/Cocos2dConstants.lua" timestamp="1407935122000" lastAccessTime="1407935163852"/>
+  <entries path="/Users/zxui/Cocos/HelloWorld/frameworks/cocos2d-x/external/lua/luasocket/mime.lua" timestamp="1404730112000" lastAccessTime="1407935163993"/>
+  <entries path="/Users/zxui/Cocos/HelloWorld/runtime/win32/json.lua" timestamp="1407935122000" lastAccessTime="1407935164067"/>
+  <entries path="/Users/zxui/Cocos/HelloWorld/frameworks/cocos2d-x/cocos/scripting/lua-bindings/script/DeprecatedClass.lua" timestamp="1403841844000" lastAccessTime="1407935164169"/>
+  <entries path="/Users/zxui/Cocos/HelloWorld/runtime/win32/socket.lua" timestamp="1407935122000" lastAccessTime="1407935165062"/>
+  <entries path="/Users/zxui/Cocos/HelloWorld/runtime/mac/PrebuiltRuntimeLua.app/Contents/Resources/DeprecatedEnum.lua" timestamp="1407935122000" lastAccessTime="1407935165162"/>
+  <entries path="/Users/zxui/Cocos/HelloWorld/runtime/win32/Opengl.lua" timestamp="1407935122000" lastAccessTime="1407935165630"/>
+  <entries path="/Users/zxui/Cocos/HelloWorld/runtime/ios/PrebuiltRuntimeLua.app/CCBReaderLoad.lua" timestamp="1407935122000" lastAccessTime="1407935165749"/>
+  <entries path="/Users/zxui/Cocos/HelloWorld/frameworks/cocos2d-x/cocos/scripting/lua-bindings/script/DeprecatedOpenglEnum.lua" timestamp="1403149192000" lastAccessTime="1407935165833"/>
+  <entries path="/Users/zxui/Cocos/HelloWorld/runtime/ios/PrebuiltRuntimeLua.app/DeprecatedClass.lua" timestamp="1407935122000" lastAccessTime="1407935166199"/>
+  <entries path="/Users/zxui/Cocos/HelloWorld/runtime/mac/PrebuiltRuntimeLua.app/Contents/Resources/mime.lua" timestamp="1407935122000" lastAccessTime="1407935166948"/>
+  <entries path="/Users/zxui/Cocos/HelloWorld/runtime/mac/PrebuiltRuntimeLua.app/Contents/Resources/ltn12.lua" timestamp="1407935122000" lastAccessTime="1407935167021"/>
+  <entries path="/Users/zxui/Cocos/HelloWorld/frameworks/cocos2d-x/cocos/scripting/lua-bindings/script/StudioConstants.lua" timestamp="1403149192000" lastAccessTime="1407935167209"/>
+  <entries path="/Users/zxui/Cocos/HelloWorld/frameworks/cocos2d-x/cocos/scripting/lua-bindings/script/luaoc.lua" timestamp="1403149192000" lastAccessTime="1407935167213"/>
+  <entries path="/Users/zxui/Cocos/HelloWorld/frameworks/cocos2d-x/external/lua/luasocket/http.lua" timestamp="1404730112000" lastAccessTime="1407935167227"/>
+  <entries path="/Users/zxui/Cocos/HelloWorld/frameworks/cocos2d-x/external/lua/luasocket/smtp.lua" timestamp="1404730112000" lastAccessTime="1407935167483"/>
+  <entries path="/Users/zxui/Cocos/HelloWorld/src/hello2.lua" timestamp="1403149192000" lastAccessTime="1409292494496">
+    <attributes name="indexed" location="2838196607/1899503212/17.idx"/>
+  </entries>
+</cache:CacheIndex>

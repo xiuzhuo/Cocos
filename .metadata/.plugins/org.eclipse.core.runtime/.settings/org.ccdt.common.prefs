@@ -1,0 +1,11 @@
+eclipse.preferences.version=1
+org.ccdt.common.ant_path=/Users/zxui/apache-ant
+org.ccdt.common.jdk_path=/usr/bin
+org.ccdt.common.js_engine_custompath=/Users/zxui/Cocos/Frameworks/cocos2d-js-v3.3
+org.ccdt.common.js_engine_path=/Users/zxui/Cocos/Frameworks/cocos2d-js-v3.3
+org.ccdt.common.lua_engine_custompath=/Users/zxui/Cocos/Frameworks/cocos2d-x-3.4
+org.ccdt.common.lua_engine_path=/Users/zxui/Cocos/Frameworks/cocos2d-x-3.4
+org.ccdt.common.mode=engine
+org.ccdt.common.ndk_path=/Users/zxui/android-ndk
+org.ccdt.common.python_path=/usr/bin
+org.ccdt.common.sdk_path=/Users/zxui/android-sdks

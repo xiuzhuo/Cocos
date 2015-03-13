@@ -1,0 +1,57 @@
+var POSITION_X={
+	a:0,
+	b:1,
+	c:2,
+	b:3,
+	e:4,
+	f:5,
+	g:6,
+	h:7
+}
+
+var PIECES={
+	PawnWhite0:{
+		texture:res_piece.PawnWhite,
+		sprite:null,
+	},
+	PawnWhite1:{
+		texture:res_piece.PawnWhite,
+		sprite:null,
+	},
+	PawnWhite2:{
+		texture:res_piece.PawnWhite,
+		sprite:null,
+	},
+	PawnWhite3:{
+		texture:res_piece.PawnWhite,
+		sprite:null,
+	},
+	PawnWhite4:{
+		texture:res_piece.PawnWhite,
+		sprite:null,
+	},
+	PawnWhite5:{
+		texture:res_piece.PawnWhite,
+		sprite:null,
+	},
+	PawnWhite6:{
+		texture:res_piece.PawnWhite,
+		sprite:null,
+	},
+	PawnWhite7:{
+		texture:res_piece.PawnWhite,
+		sprite:null,
+	},
+	PawnBlack0:{
+		texture:res_piece.PawnBlack,
+		sprite:null,
+	}
+}
+
+
+var Piece=cc.Sprite.extend(	
+{
+	ctor:function(piece){
+		this._super(piece.texture);
+	}
+});
